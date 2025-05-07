@@ -1,0 +1,1 @@
+This tool is designed to calculate five parameters along the radial direction of the reference atom in molecular dynamics simulations, including the radial distribution function, the orientation distribution function, the hydrogen bonding structure, the mean-square displacement, and the self-diffusion coefficient.
